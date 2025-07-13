@@ -27,12 +27,13 @@
 <!-- 通常来说不需要手动修正人数，我们会通过 CI 自动统计 -->
 <!-- 请不要更改下方的标签 -->
 <!-- BEGIN LGBT-CN COUNT -->
-已有 228 人签署！
+已有 229 人签署！
 <!-- END LGBT-CN COUNT -->
 <!-- 请不要更改上方的标签 -->
 
 <!-- 请不要更改下方的标签 -->
 <!-- BEGIN LGBT-CN SIGNATURE -->
+- [剑宗X(jianzongX)](https://github.com/jianzongX)
 - [Percy](https://github.com/kercily)
 - [Eltrac](https://github.com/BigCoke233)
 - [AcboxSky](https://github.com/sheepbox8646)
@@ -261,7 +262,6 @@
 - [苏阳🍥Nya\_Twisuki](https://github.com/Twisuki)
 - [AriaQwQ🍥](https://github.com/lyxofficial)
 - [知式🍥](https://github.com/typezhi)
-- [剑宗X(jianzongX)](https://github.com/jianzongX)
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
 
